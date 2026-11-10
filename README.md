@@ -13,18 +13,18 @@ Primera práctica de git y github para 2ºDAW - Despliegue de aplicaciones
   </thead>
   <tbody>
     <tr>
-      <td>Nombre de compañero</td>
-      <td><a href="">Enlace a github</a></td>
+      <td>Joaquín</td>
+      <td><a href="https://github.com/Joaquin-Chimeno/DEAW">Enlace a github</a></td>
     </tr>
   <tbody>
     <tr>
-      <td>Nombre de compañero</td>
-      <td><a href="">Enlace a github</a></td>
+      <td>Ismael</td>
+      <td><a href="https://github.com/mompean883/DEAW">Enlace a github</a></td>
     </tr>
   <tbody>
     <tr>
-      <td>Nombre de compañero</td>
-      <td><a href="">Enlace a github</a></td>
+      <td>Juan</td>
+      <td><a href="https://github.com/JuanCabrera3/DEAW">Enlace a github</a></td>
     </tr>
   </tbody>
 </table>
